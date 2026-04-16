@@ -1,0 +1,21 @@
+{
+  "name": "namste-node-js",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/vatsakshat02/Namaste-Node#readme",
+  "bugs": {
+    "url": "https://github.com/vatsakshat02/Namaste-Node/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vatsakshat02/Namaste-Node.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app"
+  }
+}

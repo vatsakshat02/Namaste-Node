@@ -1,7 +1,10 @@
-var name = "Aksha";
+const { x, calculateSum } = require("./sum");
+var name = "Akshat";
 
 var a = 5;
 
 var b = 10;
 
-console.log("Akshat");
+calculateSum(a, b);
+
+console.log(x);

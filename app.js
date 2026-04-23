@@ -1,5 +1,5 @@
-const { x, calculateSum } = require("./sum");
-var name = "Akshat";
+const { calculateSum, calculateMultiply } = require("./calculate");
+var name = "zeeku";
 
 var a = 5;
 
@@ -7,4 +7,4 @@ var b = 10;
 
 calculateSum(a, b);
 
-console.log(x);
+calculateMultiply(a, b);
